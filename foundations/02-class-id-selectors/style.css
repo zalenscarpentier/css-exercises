@@ -1,0 +1,26 @@
+.one {
+    background-color: pink;
+    font-size: 32px;
+}
+
+#two {
+    color: blue;
+    font-size: 48px;
+}
+
+.three {
+    font-style: bold;
+    background-color: red;
+    font-size: 38px;
+}
+
+#four {
+    font-size: 38px;
+    background-color: green;
+    font-style: bold ;
+}
+
+.five {
+    background-color: red;
+    font-size: 32px;
+}
